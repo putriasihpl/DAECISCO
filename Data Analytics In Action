@@ -1,1 +1,55 @@
+There are many different models of data analytics, and in this course, we will use the six-step Data Analysis Lifecycle shown in the figure below. 
+Think of this model as iterative, meaning that some steps could be repeated multiple times before decision makers are confident enough to move forward to the next step.
+
+THE DATA ANALYSIS PROCESS 
+
+Asking the Question
+The analytics process always starts with a question to be answered. Some questions are simple, such as “which bicycle color is most popular with our younger buyers?” Others are very complex, such as “why are certain types of cancer cells exhibiting resistance to radiation treatments?”
+
+Getting the data
+This step involves the process of locating and obtaining data that is relevant to the question, and then determining if there is enough data to complete the analysis.
+
+Investigating the data
+Data comes in many forms and from many different sources. This step involves determining if the data is complete and contains the relevant information for the analysis.
+
+Preparing the data
+  This step can involve many tasks to transform the data into a format appropriate for the tools that will be used to analyze and present the data. 
+This process is sometimes referred to as “cleaning” the data, because there may be blank records or obvious errors in the data set.
+
+Analyzing the data
+Analysis is the process of identifying patterns, correlations, and relationships contained within a data set or sets to draw inferences and conclusions. 
+Often, analysis relies on statistical techniques and software tools such as spreadsheets and visualization applications.
+
+Presenting the results
+This is usually the last step for data analysts. It is the process of communicating the results to decision-makers. 
+This can be done in the form of a report, graphical representations, or a combination of both. Sometimes the data analyst is also asked to recommend actions based on results.
+
+
+BUSINESS UNDERSTANDING
+
+  Analysts generally work on projects that closely follow some version of the Data Analysis Lifecycle described above. 
+In the first step of the process, Asking the Question, the goal of each project is defined. 
+Goals for projects are based on external (client) or internal (stakeholder) business requirements—this is why business understanding is key to successful data analysis. 
+Businesses often have very different goals, but every type of business benefits from understanding their data to gain insights into their processes, procedures and customer behaviors. 
+Let’s examine a couple of example projects and the questions that might be answered by an analysis.
+
+Where should the marketing budget be concentrated to increase new business? 
+  A bicycle manufacturer wants to identify areas where sales could be improved by targeted marketing efforts. 
+Using sales records, customer demographic information and products, they can decide where advertising is most likely to increase new business.
+
+How can a company make sure they are stocking the right inventory? 
+  A medical supply company for hospitals knows that certain common conditions require high volumes of certain supplies, and that patient demographics are associated with certain diagnoses of these conditions. 
+They want to use hospital data to gain insights into patient demographics and common diagnoses to identify patterns. Analysts can help the company find these patterns and ensure that they have the right supplies on hand at the right times to meet the needs of their customers.
+
+What products or services should be recommended to a customer?
+  Recommendation systems are a popular way to introduce current consumers to new products and services. 
+Think of the many recommendation systems that you encounter during your online experiences. 
+A very common example of this is video subscription services, which often analyze customer purchasing habits, ratings and reviews to help determine which products and services to recommend to those customers.
+
+But data analysis is not limited to just business problems. 
+Think about your personal interests and questions that you might want to answer in order to gain a better understanding of the field. 
+As you work through the labs and activities in the course, you will be building valuable skills for each step of the Data Analysis Lifecycle. 
+Potential employers expect to see evidence that demonstrates the ability to complete a project from start to finish. For data analyst positions, this is usually done through a project portfolio. 
+Starting now and continuing through this course, you can be planning to create your own personal project portfolio to share with prospective employers.
+
 
